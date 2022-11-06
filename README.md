@@ -8,7 +8,7 @@
 <h3>Banco de Dados</h3>
 
 - [AV1](https://github.com/PeterJPD/Banco-de-dados-AV1)
-- [AV2]()
+- [AV2](https://github.com/PedroDrago/Banco-de-Dados-AV2)
 
 <h3>Introdução a programação estruturada em C</h3>
 
