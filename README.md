@@ -3,7 +3,7 @@
 
 <h3>Paradigmas de Programação em Python</h3>
 
-- [AV1](https://github.com/PeterJPD/Paradigmas-Python-Trab-1)
+- [AV1](https://github.com/PedroDrago/Paradigmas-Python-AV1)
 - [AV2](https://github.com/PedroDrago/paradigmas-python-AV2)
 <h3>Banco de Dados</h3>
 
